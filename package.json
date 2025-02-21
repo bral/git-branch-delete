@@ -1,7 +1,7 @@
 {
   "name": "bran-gbd",
   "author": "Brannon Lucas (https://brannonlucas.com)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to interactively delete Git branches. Forked from https://github.com/stefanwille/git-branch-delete",
   "main": "build/git-branch-delete.js",
   "license": "MIT",
